@@ -13,7 +13,7 @@ namespace ifelseif
 
             string nameof = console.readline();
             if (nameof = str){
-                console.writeline("sisestatud nimi" +nameof):
+                console.writeline("sisestatud nimi" + nameof);
                 LabelTest.Text = nameof;
                 LabelTest.ForeColor = System.Drawing.Color.Blue;
             }else{
