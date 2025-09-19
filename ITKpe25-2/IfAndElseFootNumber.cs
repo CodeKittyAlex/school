@@ -13,11 +13,15 @@ namespace IfAndElseFootNumbers
             {
 
             }
-            else if (size <= 30 && size >= 33)
+            else if (size <= 34 && size >= 38)
             {
 
             }
-            
+            else if (size <= 39 && size >= 44)
+            {
+                
+            }
+
         }
     }
 }
