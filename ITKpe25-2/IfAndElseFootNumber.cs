@@ -21,6 +21,7 @@ namespace IfAndElseFootNumbers
             }
             else if (size >= 39 && size <= 44)
             {
+                Console.BackgroundColor = ConsoleColor.blue
                 Console.ForegroundColor = ConsoleColor.Yellow
                 Console.Writeline("size 39-44")
             }
