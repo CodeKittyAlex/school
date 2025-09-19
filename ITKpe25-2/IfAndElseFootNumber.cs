@@ -19,9 +19,16 @@ namespace IfAndElseFootNumbers
             }
             else if (size <= 39 && size >= 44)
             {
+
+            }
+            else if (size <= 45 && size >= 48)
+            {
+
+            }
+            else
+            {
                 
             }
-
         }
     }
 }
