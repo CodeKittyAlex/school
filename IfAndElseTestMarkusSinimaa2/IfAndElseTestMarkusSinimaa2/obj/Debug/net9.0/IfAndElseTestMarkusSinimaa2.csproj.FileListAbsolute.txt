@@ -1,0 +1,14 @@
+C:\Users\opilane\source\repos\IfAndElseTestMarkusSinimaa2\IfAndElseTestMarkusSinimaa2\bin\Debug\net9.0\IfAndElseTestMarkusSinimaa2.exe
+C:\Users\opilane\source\repos\IfAndElseTestMarkusSinimaa2\IfAndElseTestMarkusSinimaa2\bin\Debug\net9.0\IfAndElseTestMarkusSinimaa2.deps.json
+C:\Users\opilane\source\repos\IfAndElseTestMarkusSinimaa2\IfAndElseTestMarkusSinimaa2\bin\Debug\net9.0\IfAndElseTestMarkusSinimaa2.runtimeconfig.json
+C:\Users\opilane\source\repos\IfAndElseTestMarkusSinimaa2\IfAndElseTestMarkusSinimaa2\bin\Debug\net9.0\IfAndElseTestMarkusSinimaa2.dll
+C:\Users\opilane\source\repos\IfAndElseTestMarkusSinimaa2\IfAndElseTestMarkusSinimaa2\bin\Debug\net9.0\IfAndElseTestMarkusSinimaa2.pdb
+C:\Users\opilane\source\repos\IfAndElseTestMarkusSinimaa2\IfAndElseTestMarkusSinimaa2\obj\Debug\net9.0\IfAndElseTestMarkusSinimaa2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\IfAndElseTestMarkusSinimaa2\IfAndElseTestMarkusSinimaa2\obj\Debug\net9.0\IfAndElseTestMarkusSinimaa2.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\IfAndElseTestMarkusSinimaa2\IfAndElseTestMarkusSinimaa2\obj\Debug\net9.0\IfAndElseTestMarkusSinimaa2.AssemblyInfo.cs
+C:\Users\opilane\source\repos\IfAndElseTestMarkusSinimaa2\IfAndElseTestMarkusSinimaa2\obj\Debug\net9.0\IfAndElseTestMarkusSinimaa2.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\IfAndElseTestMarkusSinimaa2\IfAndElseTestMarkusSinimaa2\obj\Debug\net9.0\IfAndElseTestMarkusSinimaa2.dll
+C:\Users\opilane\source\repos\IfAndElseTestMarkusSinimaa2\IfAndElseTestMarkusSinimaa2\obj\Debug\net9.0\refint\IfAndElseTestMarkusSinimaa2.dll
+C:\Users\opilane\source\repos\IfAndElseTestMarkusSinimaa2\IfAndElseTestMarkusSinimaa2\obj\Debug\net9.0\IfAndElseTestMarkusSinimaa2.pdb
+C:\Users\opilane\source\repos\IfAndElseTestMarkusSinimaa2\IfAndElseTestMarkusSinimaa2\obj\Debug\net9.0\IfAndElseTestMarkusSinimaa2.genruntimeconfig.cache
+C:\Users\opilane\source\repos\IfAndElseTestMarkusSinimaa2\IfAndElseTestMarkusSinimaa2\obj\Debug\net9.0\ref\IfAndElseTestMarkusSinimaa2.dll

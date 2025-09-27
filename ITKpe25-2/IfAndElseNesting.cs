@@ -10,7 +10,7 @@ namespace IfAndElseNesting
             double y = 9;
 
             // sulgude sees olevat vaartust kontrollitakse, et kas vastab toene voi mitte
-            if (y == 9)
+            if (y < 20)
             {
                 // kui ma pannen if-i sisse if-i siis seda nimetatakse nestimiseks
                 if (y == 11)
