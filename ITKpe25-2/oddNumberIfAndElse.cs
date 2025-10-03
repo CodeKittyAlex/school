@@ -5,7 +5,7 @@ namespace datatipes
         static async Task Main(string[] args)
         {
             Console.Writeline("sisesta number");
-            int number = convert.ToInt32(Console.ReadLine(););
+            int number = convert.ToInt32(Console.ReadLine());
 
             if (number %2 == 0)
             {

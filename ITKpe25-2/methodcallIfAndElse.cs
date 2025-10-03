@@ -20,7 +20,7 @@ namespace MethodCallIfAndElse
                 Console.WriteLine("err");
             }
             //siin kutsun do something meetodit
-            doSomething()
+            doSomething();
         }
         static void doSomething()
         {
