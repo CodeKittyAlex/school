@@ -1,4 +1,4 @@
-namespace program
+namespace switc
 {
     internal class program
     {
