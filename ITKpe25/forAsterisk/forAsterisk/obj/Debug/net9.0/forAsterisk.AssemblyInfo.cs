@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("forAsterisk")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1f2a2e316c79ec7f387dbcb9c591052f7d7a79a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1cfa892905c403cbb5a6b1105b6acab434ea5f5c")]
 [assembly: System.Reflection.AssemblyProductAttribute("forAsterisk")]
 [assembly: System.Reflection.AssemblyTitleAttribute("forAsterisk")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

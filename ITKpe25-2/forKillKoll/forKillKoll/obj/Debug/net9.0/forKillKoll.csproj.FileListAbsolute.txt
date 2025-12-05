@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\school\ITKpe25-2\forKillKoll\forKillKoll\bin\Debug\net9.0\forKillKoll.exe
+C:\Users\opilane\source\repos\school\ITKpe25-2\forKillKoll\forKillKoll\bin\Debug\net9.0\forKillKoll.deps.json
+C:\Users\opilane\source\repos\school\ITKpe25-2\forKillKoll\forKillKoll\bin\Debug\net9.0\forKillKoll.runtimeconfig.json
+C:\Users\opilane\source\repos\school\ITKpe25-2\forKillKoll\forKillKoll\bin\Debug\net9.0\forKillKoll.dll
+C:\Users\opilane\source\repos\school\ITKpe25-2\forKillKoll\forKillKoll\bin\Debug\net9.0\forKillKoll.pdb
+C:\Users\opilane\source\repos\school\ITKpe25-2\forKillKoll\forKillKoll\obj\Debug\net9.0\forKillKoll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\school\ITKpe25-2\forKillKoll\forKillKoll\obj\Debug\net9.0\forKillKoll.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\school\ITKpe25-2\forKillKoll\forKillKoll\obj\Debug\net9.0\forKillKoll.AssemblyInfo.cs
+C:\Users\opilane\source\repos\school\ITKpe25-2\forKillKoll\forKillKoll\obj\Debug\net9.0\forKillKoll.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\school\ITKpe25-2\forKillKoll\forKillKoll\obj\Debug\net9.0\forKillKoll.sourcelink.json
+C:\Users\opilane\source\repos\school\ITKpe25-2\forKillKoll\forKillKoll\obj\Debug\net9.0\forKillKoll.dll
+C:\Users\opilane\source\repos\school\ITKpe25-2\forKillKoll\forKillKoll\obj\Debug\net9.0\refint\forKillKoll.dll
+C:\Users\opilane\source\repos\school\ITKpe25-2\forKillKoll\forKillKoll\obj\Debug\net9.0\forKillKoll.pdb
+C:\Users\opilane\source\repos\school\ITKpe25-2\forKillKoll\forKillKoll\obj\Debug\net9.0\forKillKoll.genruntimeconfig.cache
+C:\Users\opilane\source\repos\school\ITKpe25-2\forKillKoll\forKillKoll\obj\Debug\net9.0\ref\forKillKoll.dll
