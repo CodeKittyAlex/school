@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\school\ITKpe25-2\ForLoopEndless\ForLoopEndless\bin\Debug\net9.0\ForLoopEndless.exe
+C:\Users\opilane\source\repos\school\ITKpe25-2\ForLoopEndless\ForLoopEndless\bin\Debug\net9.0\ForLoopEndless.deps.json
+C:\Users\opilane\source\repos\school\ITKpe25-2\ForLoopEndless\ForLoopEndless\bin\Debug\net9.0\ForLoopEndless.runtimeconfig.json
+C:\Users\opilane\source\repos\school\ITKpe25-2\ForLoopEndless\ForLoopEndless\bin\Debug\net9.0\ForLoopEndless.dll
+C:\Users\opilane\source\repos\school\ITKpe25-2\ForLoopEndless\ForLoopEndless\bin\Debug\net9.0\ForLoopEndless.pdb
+C:\Users\opilane\source\repos\school\ITKpe25-2\ForLoopEndless\ForLoopEndless\obj\Debug\net9.0\ForLoopEndless.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\school\ITKpe25-2\ForLoopEndless\ForLoopEndless\obj\Debug\net9.0\ForLoopEndless.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\school\ITKpe25-2\ForLoopEndless\ForLoopEndless\obj\Debug\net9.0\ForLoopEndless.AssemblyInfo.cs
+C:\Users\opilane\source\repos\school\ITKpe25-2\ForLoopEndless\ForLoopEndless\obj\Debug\net9.0\ForLoopEndless.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\school\ITKpe25-2\ForLoopEndless\ForLoopEndless\obj\Debug\net9.0\ForLoopEndless.sourcelink.json
+C:\Users\opilane\source\repos\school\ITKpe25-2\ForLoopEndless\ForLoopEndless\obj\Debug\net9.0\ForLoopEndless.dll
+C:\Users\opilane\source\repos\school\ITKpe25-2\ForLoopEndless\ForLoopEndless\obj\Debug\net9.0\refint\ForLoopEndless.dll
+C:\Users\opilane\source\repos\school\ITKpe25-2\ForLoopEndless\ForLoopEndless\obj\Debug\net9.0\ForLoopEndless.pdb
+C:\Users\opilane\source\repos\school\ITKpe25-2\ForLoopEndless\ForLoopEndless\obj\Debug\net9.0\ForLoopEndless.genruntimeconfig.cache
+C:\Users\opilane\source\repos\school\ITKpe25-2\ForLoopEndless\ForLoopEndless\obj\Debug\net9.0\ref\ForLoopEndless.dll

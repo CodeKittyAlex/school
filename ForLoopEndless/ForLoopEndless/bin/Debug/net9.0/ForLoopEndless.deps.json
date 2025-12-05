@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ForLoopEndless/1.0.0": {
+        "runtime": {
+          "ForLoopEndless.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ForLoopEndless/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\opilane\\source\\repos\\school\\ITKpe25-2\\ForLoopEndless\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60A09299-48B3-4B67-9D26-6A5AA08ABBCF}|ForLoopEndless\\ForLoopEndless.csproj|c:\\users\\opilane\\source\\repos\\school\\itkpe25-2\\forloopendless\\forloopendless\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A09299-48B3-4B67-9D26-6A5AA08ABBCF}|ForLoopEndless\\ForLoopEndless.csproj|solutionrelative:forloopendless\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\school\\ITKpe25-2\\ForLoopEndless\\ForLoopEndless\\Program.cs",
+              "RelativeDocumentMoniker": "ForLoopEndless\\Program.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\school\\ITKpe25-2\\ForLoopEndless\\ForLoopEndless\\Program.cs*",
+              "RelativeToolTip": "ForLoopEndless\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T07:42:12.169Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
