@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\school\ITKpe25\FibonacciFor\FibonacciFor\bin\Debug\net9.0\FibonacciFor.exe
+C:\Users\opilane\source\repos\school\ITKpe25\FibonacciFor\FibonacciFor\bin\Debug\net9.0\FibonacciFor.deps.json
+C:\Users\opilane\source\repos\school\ITKpe25\FibonacciFor\FibonacciFor\bin\Debug\net9.0\FibonacciFor.runtimeconfig.json
+C:\Users\opilane\source\repos\school\ITKpe25\FibonacciFor\FibonacciFor\bin\Debug\net9.0\FibonacciFor.dll
+C:\Users\opilane\source\repos\school\ITKpe25\FibonacciFor\FibonacciFor\bin\Debug\net9.0\FibonacciFor.pdb
+C:\Users\opilane\source\repos\school\ITKpe25\FibonacciFor\FibonacciFor\obj\Debug\net9.0\FibonacciFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\school\ITKpe25\FibonacciFor\FibonacciFor\obj\Debug\net9.0\FibonacciFor.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\school\ITKpe25\FibonacciFor\FibonacciFor\obj\Debug\net9.0\FibonacciFor.AssemblyInfo.cs
+C:\Users\opilane\source\repos\school\ITKpe25\FibonacciFor\FibonacciFor\obj\Debug\net9.0\FibonacciFor.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\school\ITKpe25\FibonacciFor\FibonacciFor\obj\Debug\net9.0\FibonacciFor.sourcelink.json
+C:\Users\opilane\source\repos\school\ITKpe25\FibonacciFor\FibonacciFor\obj\Debug\net9.0\FibonacciFor.dll
+C:\Users\opilane\source\repos\school\ITKpe25\FibonacciFor\FibonacciFor\obj\Debug\net9.0\refint\FibonacciFor.dll
+C:\Users\opilane\source\repos\school\ITKpe25\FibonacciFor\FibonacciFor\obj\Debug\net9.0\FibonacciFor.pdb
+C:\Users\opilane\source\repos\school\ITKpe25\FibonacciFor\FibonacciFor\obj\Debug\net9.0\FibonacciFor.genruntimeconfig.cache
+C:\Users\opilane\source\repos\school\ITKpe25\FibonacciFor\FibonacciFor\obj\Debug\net9.0\ref\FibonacciFor.dll
