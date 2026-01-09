@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\school\ITKpe25\ruut\ruut\bin\Debug\net9.0\ruut.exe
+C:\Users\opilane\source\repos\school\ITKpe25\ruut\ruut\bin\Debug\net9.0\ruut.deps.json
+C:\Users\opilane\source\repos\school\ITKpe25\ruut\ruut\bin\Debug\net9.0\ruut.runtimeconfig.json
+C:\Users\opilane\source\repos\school\ITKpe25\ruut\ruut\bin\Debug\net9.0\ruut.dll
+C:\Users\opilane\source\repos\school\ITKpe25\ruut\ruut\bin\Debug\net9.0\ruut.pdb
+C:\Users\opilane\source\repos\school\ITKpe25\ruut\ruut\obj\Debug\net9.0\ruut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\school\ITKpe25\ruut\ruut\obj\Debug\net9.0\ruut.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\school\ITKpe25\ruut\ruut\obj\Debug\net9.0\ruut.AssemblyInfo.cs
+C:\Users\opilane\source\repos\school\ITKpe25\ruut\ruut\obj\Debug\net9.0\ruut.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\school\ITKpe25\ruut\ruut\obj\Debug\net9.0\ruut.sourcelink.json
+C:\Users\opilane\source\repos\school\ITKpe25\ruut\ruut\obj\Debug\net9.0\ruut.dll
+C:\Users\opilane\source\repos\school\ITKpe25\ruut\ruut\obj\Debug\net9.0\refint\ruut.dll
+C:\Users\opilane\source\repos\school\ITKpe25\ruut\ruut\obj\Debug\net9.0\ruut.pdb
+C:\Users\opilane\source\repos\school\ITKpe25\ruut\ruut\obj\Debug\net9.0\ruut.genruntimeconfig.cache
+C:\Users\opilane\source\repos\school\ITKpe25\ruut\ruut\obj\Debug\net9.0\ref\ruut.dll

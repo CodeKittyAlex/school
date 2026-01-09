@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\school\ITKpe25\QuadraticFormula\QuadraticFormula\bin\Debug\net9.0\QuadraticFormula.exe
+C:\Users\opilane\source\repos\school\ITKpe25\QuadraticFormula\QuadraticFormula\bin\Debug\net9.0\QuadraticFormula.deps.json
+C:\Users\opilane\source\repos\school\ITKpe25\QuadraticFormula\QuadraticFormula\bin\Debug\net9.0\QuadraticFormula.runtimeconfig.json
+C:\Users\opilane\source\repos\school\ITKpe25\QuadraticFormula\QuadraticFormula\bin\Debug\net9.0\QuadraticFormula.dll
+C:\Users\opilane\source\repos\school\ITKpe25\QuadraticFormula\QuadraticFormula\bin\Debug\net9.0\QuadraticFormula.pdb
+C:\Users\opilane\source\repos\school\ITKpe25\QuadraticFormula\QuadraticFormula\obj\Debug\net9.0\QuadraticFormula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\school\ITKpe25\QuadraticFormula\QuadraticFormula\obj\Debug\net9.0\QuadraticFormula.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\school\ITKpe25\QuadraticFormula\QuadraticFormula\obj\Debug\net9.0\QuadraticFormula.AssemblyInfo.cs
+C:\Users\opilane\source\repos\school\ITKpe25\QuadraticFormula\QuadraticFormula\obj\Debug\net9.0\QuadraticFormula.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\school\ITKpe25\QuadraticFormula\QuadraticFormula\obj\Debug\net9.0\QuadraticFormula.sourcelink.json
+C:\Users\opilane\source\repos\school\ITKpe25\QuadraticFormula\QuadraticFormula\obj\Debug\net9.0\QuadraticFormula.dll
+C:\Users\opilane\source\repos\school\ITKpe25\QuadraticFormula\QuadraticFormula\obj\Debug\net9.0\refint\QuadraticFormula.dll
+C:\Users\opilane\source\repos\school\ITKpe25\QuadraticFormula\QuadraticFormula\obj\Debug\net9.0\QuadraticFormula.pdb
+C:\Users\opilane\source\repos\school\ITKpe25\QuadraticFormula\QuadraticFormula\obj\Debug\net9.0\QuadraticFormula.genruntimeconfig.cache
+C:\Users\opilane\source\repos\school\ITKpe25\QuadraticFormula\QuadraticFormula\obj\Debug\net9.0\ref\QuadraticFormula.dll

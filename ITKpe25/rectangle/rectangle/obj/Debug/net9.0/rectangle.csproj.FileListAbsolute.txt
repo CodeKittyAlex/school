@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\school\ITKpe25\rectangle\rectangle\bin\Debug\net9.0\rectangle.exe
+C:\Users\opilane\source\repos\school\ITKpe25\rectangle\rectangle\bin\Debug\net9.0\rectangle.deps.json
+C:\Users\opilane\source\repos\school\ITKpe25\rectangle\rectangle\bin\Debug\net9.0\rectangle.runtimeconfig.json
+C:\Users\opilane\source\repos\school\ITKpe25\rectangle\rectangle\bin\Debug\net9.0\rectangle.dll
+C:\Users\opilane\source\repos\school\ITKpe25\rectangle\rectangle\bin\Debug\net9.0\rectangle.pdb
+C:\Users\opilane\source\repos\school\ITKpe25\rectangle\rectangle\obj\Debug\net9.0\rectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\school\ITKpe25\rectangle\rectangle\obj\Debug\net9.0\rectangle.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\school\ITKpe25\rectangle\rectangle\obj\Debug\net9.0\rectangle.AssemblyInfo.cs
+C:\Users\opilane\source\repos\school\ITKpe25\rectangle\rectangle\obj\Debug\net9.0\rectangle.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\school\ITKpe25\rectangle\rectangle\obj\Debug\net9.0\rectangle.sourcelink.json
+C:\Users\opilane\source\repos\school\ITKpe25\rectangle\rectangle\obj\Debug\net9.0\rectangle.dll
+C:\Users\opilane\source\repos\school\ITKpe25\rectangle\rectangle\obj\Debug\net9.0\refint\rectangle.dll
+C:\Users\opilane\source\repos\school\ITKpe25\rectangle\rectangle\obj\Debug\net9.0\rectangle.pdb
+C:\Users\opilane\source\repos\school\ITKpe25\rectangle\rectangle\obj\Debug\net9.0\rectangle.genruntimeconfig.cache
+C:\Users\opilane\source\repos\school\ITKpe25\rectangle\rectangle\obj\Debug\net9.0\ref\rectangle.dll
