@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ForLoopEndless")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5969f38b2d714774a76cf6e6766250f5cca8d026")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37c08a0dc2092f2b6f45f772b2241b3bb28103c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("ForLoopEndless")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ForLoopEndless")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
