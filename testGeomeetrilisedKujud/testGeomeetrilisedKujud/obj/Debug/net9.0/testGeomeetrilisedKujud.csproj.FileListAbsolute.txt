@@ -1,0 +1,14 @@
+C:\Users\opilane\source\repos\test123\testGeomeetrilisedKujud\testGeomeetrilisedKujud\obj\Debug\net9.0\testGeomeetrilisedKujud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\test123\testGeomeetrilisedKujud\testGeomeetrilisedKujud\obj\Debug\net9.0\testGeomeetrilisedKujud.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\test123\testGeomeetrilisedKujud\testGeomeetrilisedKujud\obj\Debug\net9.0\testGeomeetrilisedKujud.AssemblyInfo.cs
+C:\Users\opilane\source\repos\test123\testGeomeetrilisedKujud\testGeomeetrilisedKujud\obj\Debug\net9.0\testGeomeetrilisedKujud.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\test123\testGeomeetrilisedKujud\testGeomeetrilisedKujud\bin\Debug\net9.0\testGeomeetrilisedKujud.exe
+C:\Users\opilane\source\repos\test123\testGeomeetrilisedKujud\testGeomeetrilisedKujud\bin\Debug\net9.0\testGeomeetrilisedKujud.deps.json
+C:\Users\opilane\source\repos\test123\testGeomeetrilisedKujud\testGeomeetrilisedKujud\bin\Debug\net9.0\testGeomeetrilisedKujud.runtimeconfig.json
+C:\Users\opilane\source\repos\test123\testGeomeetrilisedKujud\testGeomeetrilisedKujud\bin\Debug\net9.0\testGeomeetrilisedKujud.dll
+C:\Users\opilane\source\repos\test123\testGeomeetrilisedKujud\testGeomeetrilisedKujud\bin\Debug\net9.0\testGeomeetrilisedKujud.pdb
+C:\Users\opilane\source\repos\test123\testGeomeetrilisedKujud\testGeomeetrilisedKujud\obj\Debug\net9.0\testGeomeetrilisedKujud.dll
+C:\Users\opilane\source\repos\test123\testGeomeetrilisedKujud\testGeomeetrilisedKujud\obj\Debug\net9.0\refint\testGeomeetrilisedKujud.dll
+C:\Users\opilane\source\repos\test123\testGeomeetrilisedKujud\testGeomeetrilisedKujud\obj\Debug\net9.0\testGeomeetrilisedKujud.pdb
+C:\Users\opilane\source\repos\test123\testGeomeetrilisedKujud\testGeomeetrilisedKujud\obj\Debug\net9.0\testGeomeetrilisedKujud.genruntimeconfig.cache
+C:\Users\opilane\source\repos\test123\testGeomeetrilisedKujud\testGeomeetrilisedKujud\obj\Debug\net9.0\ref\testGeomeetrilisedKujud.dll
